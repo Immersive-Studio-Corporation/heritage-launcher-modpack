@@ -1,0 +1,1664 @@
+{
+  "schemaVersion": 1,
+  "modpackVersion": "1.0.247",
+  "minecraftVersion": "1.21.1",
+  "fabricLoaderVersion": "0.19.3",
+  "generatedAt": "2026-09-15T20:57:05.424Z",
+  "baseUrl": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/",
+  "launcher": {
+    "name": "Héritage Launcher",
+    "serverName": "L'Héritage de Poudlard",
+    "minecraftVersion": "1.21.1",
+    "loader": "fabric",
+    "javaVersion": 21,
+    "mainMod": "HPRPASLAN"
+  },
+  "files": [
+    {
+      "path": "config/axiom/.license",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom___a23e1427.license",
+      "size": 875,
+      "sha256": "475e5b662333caed78186ceea3f3448c00cce60f663c9f685a4e13318d09e961",
+      "type": "config"
+    },
+    {
+      "path": "config/axiom/axiom.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom_axiom__f46802f3.json",
+      "size": 9526,
+      "sha256": "1b6d2344fb5b22db4c7904f14134337d43f8700d1c81c0533f6ee583728fa82e",
+      "type": "config"
+    },
+    {
+      "path": "config/axiom/hotbars/91.197.6.237",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom_hotbars_91.197.6__300dcb81.237",
+      "size": 182,
+      "sha256": "a06e5627c1071421d4217dd5483d186b20d0a17acf981d93560086302952a3c1",
+      "type": "config"
+    },
+    {
+      "path": "config/axiom/hotbars/heritagedepoudlard.minesr.com",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom_hotbars_heritagedepoudlard.minesr__0a60b874.com",
+      "size": 182,
+      "sha256": "a06e5627c1071421d4217dd5483d186b20d0a17acf981d93560086302952a3c1",
+      "type": "config"
+    },
+    {
+      "path": "config/axiom/imgui.ini",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom_imgui__536448ba.ini",
+      "size": 2450,
+      "sha256": "6809a29dcffe54caf4166ae26e1d03f918140a673f2162cb5a6afe1f8922f038",
+      "type": "config"
+    },
+    {
+      "path": "config/axiom/translations.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_axiom_translations__a2beee8c.zip",
+      "size": 1166225,
+      "sha256": "4f7ac4f2d9be7ee185dac96faf65180ae48197b8c232b8bb801f3327a27b634b",
+      "type": "config"
+    },
+    {
+      "path": "config/beautify.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_beautify__f3f7c1e1.json",
+      "size": 118,
+      "sha256": "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab",
+      "type": "config"
+    },
+    {
+      "path": "config/bobby.conf",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_bobby__aa97dedd.conf",
+      "size": 1095,
+      "sha256": "a2375ea85e34618ef5924222e208c49f7c28710ff1e9563105f8bf30e8156e5c",
+      "type": "config"
+    },
+    {
+      "path": "config/cameraoverhaul.toml",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_cameraoverhaul__430de49f.toml",
+      "size": 7054,
+      "sha256": "196509ebc58f7989c5059063e15056656cce9aa3bfcf0a894bc25db3a6765d9a",
+      "type": "config"
+    },
+    {
+      "path": "config/com.yuushya/client_config.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_com.yuushya_client_config__91551b78.json",
+      "size": 21,
+      "sha256": "1fd5a88d8bec4c70be1d9530a8f5c7ee7081121e53767758f7cb0fe1c1911d81",
+      "type": "config"
+    },
+    {
+      "path": "config/craftedcore.json5",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_craftedcore__a92cf83a.json5",
+      "size": 191,
+      "sha256": "73acea26ceb7840631dd70bafef6bfbe672f6582ab349e12c0466b428f4c365a",
+      "type": "config"
+    },
+    {
+      "path": "config/creativecore-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_creativecore-client__3a307852.json",
+      "size": 23,
+      "sha256": "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac",
+      "type": "config"
+    },
+    {
+      "path": "config/dummmmmmy-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_dummmmmmy-client__3bfec6c2.json",
+      "size": 1706,
+      "sha256": "7f1420a45b0c5c85de21f28ba13d78d7fb6526ed860bf5ebd10865555f535462",
+      "type": "config"
+    },
+    {
+      "path": "config/dummmmmmy-common.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_dummmmmmy-common__a2e0ff0e.json",
+      "size": 1442,
+      "sha256": "f127cee199299f6cb5365da224ef3f219315ca7a007b0a084bd70d0e2c3106c4",
+      "type": "config"
+    },
+    {
+      "path": "config/emotecraft_emote_map.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_emotecraft_emote_map__91a4b400.json",
+      "size": 117,
+      "sha256": "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
+      "type": "config"
+    },
+    {
+      "path": "config/enhancedvisuals-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_enhancedvisuals-client__efe81a46.json",
+      "size": 8397,
+      "sha256": "71702765f95e4f1fa9eb77cc86ff07e9e7e03f204a57bcaf41736f53d7e548ed",
+      "type": "config"
+    },
+    {
+      "path": "config/essential-mod-partner/config.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_essential-mod-partner_config__31c8d148.json",
+      "size": 28,
+      "sha256": "d5a53e4c9b5f81e3b37a1be22a20d54013b285c1993baed867d25fab0f61fb1f",
+      "type": "config"
+    },
+    {
+      "path": "config/essential-mod-partner/data.cache.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_essential-mod-partner_data.cache__2cea04ca.json",
+      "size": 17775,
+      "sha256": "d94e7815bb226b01f49cb74c7a361655e35822828119a238d41b6d294652dabe",
+      "type": "config"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fabric_indigo-renderer__73e6cc37.properties",
+      "size": 291,
+      "sha256": "3426f4a84462abc27c38b66ca79c10def4c89cdecb240210bc1fd2e171bf5604",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/button-primary-hover.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_button-primary-hover__ab00600f.png",
+      "size": 2636,
+      "sha256": "b6640e361760259e17bea321f5392a22ee5c399f17b4e50bdc1c2be2cf4289b0",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/button-primary.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_button-primary__c76ef3b9.png",
+      "size": 2691,
+      "sha256": "ec29084c023de53c8ed4d5cf299e7c7cbc4e83881dcaa4eecf3cbb903e0c31e2",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/button-secondary-hover.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_button-secondary-hover__d039da7a.png",
+      "size": 2203,
+      "sha256": "ad191523629003645f66d7c69b952b98774264dbe003546e5f9d9e191662833c",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/button-secondary.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_button-secondary__584d5274.png",
+      "size": 2049,
+      "sha256": "beeb2cd34aa382f5b269435db53880d80eadeba57d9cef945dc2a61e3bbdefcd",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/heritage-logo-icon.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_heritage-logo-icon__a0eb6883.png",
+      "size": 33248,
+      "sha256": "52ed0d71bdf6528475801af26eb5982d1e10c6901a8304ff970ff41f9fb7e8da",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/heritage-logo-main.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_heritage-logo-main__9702399c.png",
+      "size": 568535,
+      "sha256": "a36f4743294d864cd314adfa288c599a0a4997c93888f5a9bfc55bb79f3653c1",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/assets/heritage/heritage-menu-background.png",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_heritage-menu-background__970157e7.png",
+      "size": 3612707,
+      "sha256": "cba936eedea797cacd91c59269edb5752d36faff729a59bdaad0729a3533a5a7",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_custom_gui_screens__607ac2d7.txt",
+      "size": 50,
+      "sha256": "d0adf4b68c7483991a2645eaeabdaf88b9eb19ee242bda6acb96b6fdfcb76fd1",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_customizablemenus__7ad516ff.txt",
+      "size": 75,
+      "sha256": "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_customization_title_screen_layout__4eda34f1.txt",
+      "size": 48611,
+      "sha256": "1ba78b49e4dc686cabd9020a8e1c7620e93c20f18675009482f2cda40d3f8420",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_legacy_checklist__ab9619fa.txt",
+      "size": 43,
+      "sha256": "21f7a8f6000d2f3233e256a992176a5d1cc49731ce18cb8ddaf25c31a0803872",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/normalized_scroll_screens.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_normalized_scroll_screens__ef4b540f.json",
+      "size": 20,
+      "sha256": "4b75ce0e585c1f97ee14ce6d1cfb72d2aa4ed935c6cb8e33e517479f45acfbf4",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_options__f425543f.txt",
+      "size": 2055,
+      "sha256": "9b483e5016cc3b549f55fd8165b9d0916d3b55d5766360dc2883e66c94516d15",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_user_variables__f704f3f6.db",
+      "size": 22,
+      "sha256": "edc815421a15253eb94f3f6cde37a1367ae3a9925383515e7d930af4df38c498",
+      "type": "config"
+    },
+    {
+      "path": "config/ferritecore.mixin.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_ferritecore.mixin__bc7cbee7.properties",
+      "size": 1615,
+      "sha256": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
+      "type": "config"
+    },
+    {
+      "path": "config/firefly-bush-fabric.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_firefly-bush-fabric__c6d952fc.properties",
+      "size": 445,
+      "sha256": "9642d34cc3cda52316c38c4fdd1db6ef31f40c488689675d599ea15e8c014cce",
+      "type": "config"
+    },
+    {
+      "path": "config/flywheel.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_flywheel__16d67398.json",
+      "size": 131,
+      "sha256": "36026dadf3cf6edd8e699357d4147997485d7d9ee2c9c2fe10ac03adb9565fb6",
+      "type": "config"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_forgeconfigapiport__f2d00872.toml",
+      "size": 523,
+      "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+      "type": "config"
+    },
+    {
+      "path": "config/framedblocks-client.toml",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_framedblocks-client__5bcf88ef.toml",
+      "size": 241,
+      "sha256": "3b244e4682c7b56f0c44578f27060264c1f87affe2c2ddc27d2db10c75aed9c3",
+      "type": "config"
+    },
+    {
+      "path": "config/fzzy_config/keybinds.toml",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fzzy_config_keybinds__33ac3647.toml",
+      "size": 6403,
+      "sha256": "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-create-kilt-compat.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_heritage-create-kilt-compat__1033e408.properties",
+      "size": 590,
+      "sha256": "56e37e7189bad6d134e2b49299a8fcfc5b9ba92e0698ce1fc79f644189ee2082",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-diagnostics.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_heritage-diagnostics__e4ced4dc.json",
+      "size": 550,
+      "sha256": "f5621032c5b7d93860b48f38baf27207d6f20806a0cf1dd3ebd57ae468ba384c",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-fantasy-official-resources/fantasyfurniture-bone-21.7.8.jar",
+      "url": "https://cdn.modrinth.com/data/oJ4TI49S/versions/Ra8b0MOZ/fantasyfurniture-bone-21.7.8.jar",
+      "size": 698351,
+      "sha256": "01cfcd6f3df982e8daaf748a5a490b5f503c37058db45d806eb16eff6586c730",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-fantasy-official-resources/fantasyfurniture-dunmer-21.5.20.jar",
+      "url": "https://cdn.modrinth.com/data/Bs7e2IyQ/versions/Ef7VQkDQ/fantasyfurniture-dunmer-21.5.20.jar",
+      "size": 367461,
+      "sha256": "92d28fe38f04b7d0e127304e61c758b1bdc4fc58bc4481f71331168aa136c8f6",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-fantasy-official-resources/fantasyfurniture-necrolord-21.5.18.jar",
+      "url": "https://cdn.modrinth.com/data/V9TnGtTg/versions/uoJ2RhjQ/fantasyfurniture-necrolord-21.5.18.jar",
+      "size": 393922,
+      "sha256": "6a115ded3af6496083209ba7acdb2e6658ddb86861f45ac2fa4c42ea732e191b",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-fantasy-official-resources/fantasyfurniture-royal-21.5.18.jar",
+      "url": "https://cdn.modrinth.com/data/OIAm13ki/versions/9sAO9xs1/fantasyfurniture-royal-21.5.18.jar",
+      "size": 382798,
+      "sha256": "37dd68918e13efca6e058dda651589df9a9187c7b289d409d561d6f555d87777",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-fantasy-official-resources/fantasyfurniture-venthyr-21.7.8.jar",
+      "url": "https://cdn.modrinth.com/data/FjHW4JvP/versions/MNImxAM1/fantasyfurniture-venthyr-21.7.8.jar",
+      "size": 363348,
+      "sha256": "7fe681a1c70440d1492c3644d3532845296ae1e3cf9afd0c64a9c64b16e557ae",
+      "type": "config"
+    },
+    {
+      "path": "config/heritage-gender-whitelist.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_heritage-gender-whitelist__5be8646f.json",
+      "size": 577,
+      "sha256": "9fd70454426eb29eee075cf08661ba0141e809b7bb76784884fa32855241e38e",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/access.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_access__8cb493d6.properties",
+      "size": 87,
+      "sha256": "aa974276e03a69f047530288d9d026a94aefc5ad260765ceeecacfe36cd10811",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/assets/README.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_assets_README__86aaf90e.txt",
+      "size": 422,
+      "sha256": "8bd16f229732fb7cf36bb43f34ec8c651bdf9609e4e860c78839d141df369d17",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/client.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_client__9b545923.properties",
+      "size": 176,
+      "sha256": "5ba9e304933c278982785b409c7d257d0ff4ae41284ff00f2481ec14a367a52e",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/house_points.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_house_points__5a457d88.properties",
+      "size": 113,
+      "sha256": "c318cba8d443fdf3b65353aa988d54e88db104d2fdd2f84ef3e460474e324090",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/item-trash.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_item-trash__f4883eef.properties",
+      "size": 75,
+      "sha256": "91e7becbad3ac47d8975ad0eb257ad6eeba5843688f04007a44cae53432d49cb",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/mob_trash.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_mob_trash__a40d6ae8.properties",
+      "size": 65,
+      "sha256": "0c2058293beaa2bff815793e91066c368be80d77da24d401c88cb87c7ee8b34b",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/mobs.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_mobs__ef2c3544.properties",
+      "size": 10635,
+      "sha256": "845db7e908dc343c0d94e7c664af9ea4f6e968e4849b465c1e07f3db7cad00c5",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/player-tags.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_player-tags__d7ac13eb.properties",
+      "size": 56,
+      "sha256": "f0cd5c450c0297ff0047dc2f58a52ab60395e5f00a70491a644ad1aad5a226b6",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/voice_spell_aliases.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_voice_spell_aliases__e38007d3.txt",
+      "size": 1560,
+      "sha256": "0db48f98e22cc7a931282e724b6f6ce092e0df38fd295d1bbb0a25b3816f64b7",
+      "type": "config"
+    },
+    {
+      "path": "config/hprpaslan/wands.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_hprpaslan_wands__110f338d.properties",
+      "size": 68,
+      "sha256": "9d1d1505d9ceb6659ef84c21414cc612bd8ddc523e469fd1ca33811b1ee091d0",
+      "type": "config"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_immediatelyfast__42fc84c7.json",
+      "size": 1114,
+      "sha256": "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
+      "type": "config"
+    },
+    {
+      "path": "config/immersive_melodies.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_immersive_melodies__3bf069a7.json",
+      "size": 1161,
+      "sha256": "19529f180fb6456efa3dbdf9a64eb68c2174a896b545afc5ab6d6687c1827f14",
+      "type": "config"
+    },
+    {
+      "path": "config/lithium.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_lithium__66068370.properties",
+      "size": 600,
+      "sha256": "61a5724763b1c415f5e7f479f44b7e5db513c79133d1123d4d6d2572a279ced4",
+      "type": "config"
+    },
+    {
+      "path": "config/moonlight-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_moonlight-client__f16071cd.json",
+      "size": 1350,
+      "sha256": "468730b66703fdbae23f71ee15a9d880f2a79ff8fe67abda746dcbf10f2f06ab",
+      "type": "config"
+    },
+    {
+      "path": "config/moonlight-common.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_moonlight-common__b49f61f6.json",
+      "size": 1011,
+      "sha256": "086d653fa3de22f98771ab194d8f83d32d95cc157d536a35d03e1cdc742351a1",
+      "type": "config"
+    },
+    {
+      "path": "config/mtr.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_mtr__1c787c25.json",
+      "size": 566,
+      "sha256": "b6ff443b3d35eb0aa6a696739f227e749d6250f2386ccaeb697c74b412456a7c",
+      "type": "config"
+    },
+    {
+      "path": "config/notenoughanimations.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_notenoughanimations__2205c5f0.json",
+      "size": 3357,
+      "sha256": "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4",
+      "type": "config"
+    },
+    {
+      "path": "config/pehkui/config.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_pehkui_config__37a4a8a7.json",
+      "size": 3344,
+      "sha256": "d5fd720a54dec7c1755cc44646e860f95aff7893f540a4abadef6b81fa8ae4d3",
+      "type": "config"
+    },
+    {
+      "path": "config/pfm.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_pfm__f2e54c2c.json",
+      "size": 408,
+      "sha256": "c9a0306ff85ac3518a3ecd8694d1bae242cff042df367aa8443f5aa5cd052375",
+      "type": "config"
+    },
+    {
+      "path": "config/placeable.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_placeable__e5ba2252.json",
+      "size": 1545,
+      "sha256": "0f43624ad3f19028a6e74b1382110746e9b3a84f86305d484b5a12b0965cc209",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/de_de.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_de_de__b2473e36.json",
+      "size": 8510,
+      "sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/es_es.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_es_es__53e1e88d.json",
+      "size": 9115,
+      "sha256": "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/fr_fr.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_fr_fr__d60233dd.json",
+      "size": 9154,
+      "sha256": "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/he_il.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_he_il__1477d602.json",
+      "size": 9290,
+      "sha256": "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ja_jp.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_ja_jp__70aa326e.json",
+      "size": 9467,
+      "sha256": "0db355eb21a7795e9e57bb94ae925a28efdbdec49b0704476dcf9c9dc2ed5566",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ko_kr.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_ko_kr__5278c5ef.json",
+      "size": 9208,
+      "sha256": "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/pl_pl.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_pl_pl__dbaf4184.json",
+      "size": 8890,
+      "sha256": "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/pt_br.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_pt_br__8b496a14.json",
+      "size": 9046,
+      "sha256": "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/ru_ru.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_ru_ru__262411f4.json",
+      "size": 11446,
+      "sha256": "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/timestamp",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice___6f313d27.crowdin_timestamp",
+      "size": 13,
+      "sha256": "a9c492b4a947f3e7bd5a2c0a95d2284c28951cf0455b9b556a3ebc02b3b34eb7",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/tr_tr.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_tr_tr__c12e0a4d.json",
+      "size": 1545,
+      "sha256": "737689d0d384a71a45e6e7a96977ab36cba9f417f3ca43863cdcf0215779754d",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/tt_ru.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_tt_ru__aa5ee0b2.json",
+      "size": 11312,
+      "sha256": "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/uk_ua.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_uk_ua__d94ebb68.json",
+      "size": 10828,
+      "sha256": "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/vi_vn.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_vi_vn__aefc8555.json",
+      "size": 10102,
+      "sha256": "9fc7b9669868da19f237629ff536155135e17e6c3a42f978bec98fb514aa0c25",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/zh_cn.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_zh_cn__a3013ac5.json",
+      "size": 8123,
+      "sha256": "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c",
+      "type": "config"
+    },
+    {
+      "path": "config/plasmovoice/.crowdin/zh_tw.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_plasmovoice_.crowdin_zh_tw__ba1e797e.json",
+      "size": 8119,
+      "sha256": "14870f7731fe7381871e17a10d3cb962a041f31ae613cf6872e9debd20775a8c",
+      "type": "config"
+    },
+    {
+      "path": "config/remorphed.json5",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_remorphed__b62ae469.json5",
+      "size": 378,
+      "sha256": "85e53772e13aadffdbefe9ccc6beb6d3271d3c95ab7df8443451ae167fb00e61",
+      "type": "config"
+    },
+    {
+      "path": "config/replaymod.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_replaymod__a7fbb80c.json",
+      "size": 57,
+      "sha256": "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08",
+      "type": "config"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_sodium-fingerprint__543c1d5c.json",
+      "size": 427,
+      "sha256": "7da168a85083240be1241d4d3b75d6e3ac606580664bde48e466fa95ef2036c8",
+      "type": "config"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_sodium-mixins__a8682453.properties",
+      "size": 258,
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "type": "config"
+    },
+    {
+      "path": "config/spark/tmp/about.txt",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_spark_tmp_about__69fa6af5.txt",
+      "size": 585,
+      "sha256": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/alerts.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_alerts__800a8fc5.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/config.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_config__58e197f7.json",
+      "size": 555,
+      "sha256": "5baa21db4f9676da3205368f05dcda37b30c7bf1976a9fd280c4d671d3a122fb",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/events.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_events__e1bcfd25.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/house_points.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_house_points__4d5945f9.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/kits.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_kits__2150810e.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/logs.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_logs__cd040636.json",
+      "size": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/player_notes.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_player_notes__9042af53.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/reports.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_reports__017ba09b.json",
+      "size": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/rp_profiles.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_rp_profiles__2a24ac86.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/sanctions.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_sanctions__38d72116.json",
+      "size": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanel/warps.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanel_warps__53736db6.json",
+      "size": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "type": "config"
+    },
+    {
+      "path": "config/staffpanelrp-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_staffpanelrp-client__ece59279.json",
+      "size": 55,
+      "sha256": "69199a2871ec81b784f03f2deedf1e32a896bdcaf9402c15abef4c3926dc2d6d",
+      "type": "config"
+    },
+    {
+      "path": "config/supplementaries-client.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_supplementaries-client__bb67e1b6.json",
+      "size": 8777,
+      "sha256": "036b05aa20073b434290b94f818d6964b07c050d2b27c541eebf252bc4dc57db",
+      "type": "config"
+    },
+    {
+      "path": "config/supplementaries-common.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_supplementaries-common__94288d59.json",
+      "size": 18080,
+      "sha256": "db11593b6c4a921c17a5060fd60915e4618a4030e537c3192a0a54cdaa62e0a9",
+      "type": "config"
+    },
+    {
+      "path": "config/transition.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_transition__6036f144.json",
+      "size": 97,
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "type": "config"
+    },
+    {
+      "path": "config/trender.json",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_trender__f3647ccf.json",
+      "size": 47,
+      "sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "type": "config"
+    },
+    {
+      "path": "config/walkers.json5",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_walkers__72b19585.json5",
+      "size": 6532,
+      "sha256": "e85d0a0651e65adc3c05b37c1c3c21dfe733f81e6fbf2e227c00cae770db2859",
+      "type": "config"
+    },
+    {
+      "path": "mods/3d_placeable_food-2.0.0-fabric-1.21-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MFgnFY8Z/versions/F9DGEOfs/3d_placeable_food-2.0.0-fabric-1.21-1.21.1.jar",
+      "size": 4989735,
+      "sha256": "4a20adebc4e50ff818cb04eba85411a948312f6b3907700a87998d70e4f87d19",
+      "type": "mod"
+    },
+    {
+      "path": "mods/architectury-13.0.11-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_architectury-13.0.11-fabric__b0f3a5fa.jar",
+      "size": 600921,
+      "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-achievements-0.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-achievements-0.1.0__59d202a7.jar",
+      "size": 54386,
+      "sha256": "5209c563cade41db0bda39f0e65bb2df1528688512d4d2646cbca665d7267763",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-divination-0.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-divination-0.1.0__8313c6e0.jar",
+      "size": 86225,
+      "sha256": "c3ddcb3877715712a37dcb5557f2aac882818f6837cff0c53cf76e880c3554ab",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-house-points-0.1.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-house-points-0.1.1__1c120368.jar",
+      "size": 4987507,
+      "sha256": "d06919930565478b4a2c0751fb3512757ef54784bb3786314f5132c113259ebe",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-outfits-1.1.5.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-outfits-1.1.5__eb495f20.jar",
+      "size": 165399,
+      "sha256": "3623d3265b09d230fbd4b5f73ff79b36e549db4cec22ded80eabeb6fc2d2d024",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-owl-post-0.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-owl-post-0.1.0__9d3f81c3.jar",
+      "size": 93431,
+      "sha256": "3b99076f78a88e6d62cea8c339a66a5fbbd6e08dc173dd9d32b24bba800ce2c2",
+      "type": "mod"
+    },
+    {
+      "path": "mods/aslan-quest-board-0.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-quest-board-0.1.0__1b5a8959.jar",
+      "size": 63574,
+      "sha256": "a791cd25ef08cb46a2cfa0caa1cbe8c64a9f579cfd4de7843f18963e263109fa",
+      "type": "mod"
+    },
+    {
+      "path": "mods/astrocraft-1.5.1+1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_astrocraft-1.5.1_1.21__5c7969ac.jar",
+      "size": 6468205,
+      "sha256": "901a46bd99a4a732a07ed91bec91395dec9bd92a3a1e15291bbf9fa5d214fad7",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Axiom-5.4.2-for-MC1.21.1__25f2e1bf.jar",
+      "size": 47067416,
+      "sha256": "ecb14b29e7eb4cdc5c1f299782d32a2c26202292a8a9b4060a9104526e6d7267",
+      "type": "mod"
+    },
+    {
+      "path": "mods/beautify-2.0.0+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_beautify-2.0.0_1.21.1__758a249b.jar",
+      "size": 837607,
+      "sha256": "134da1a8e3841f0a14004e839bd1e0a9d091cc5769a82b0052cebda2804ac4fd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/bluelib-2.3.2-heritage.2-fabric-1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_bluelib-2.3.2-heritage.2-fabric-1.21.1__d1802306.jar",
+      "size": 962824,
+      "sha256": "674ba49f978aa3e74d4302a88970fcf3b4f6e7ebe4fb0292aa19c4a6e139b65b",
+      "type": "mod"
+    },
+    {
+      "path": "mods/bobby-5.2.4.1+mc1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_bobby-5.2.4.1_mc1.21__9df7bfa4.jar",
+      "size": 863337,
+      "sha256": "06db885914f6a4153ec2351e7b5485c984b2ba39ef2e06e867263734eda3796a",
+      "type": "mod"
+    },
+    {
+      "path": "mods/boostercards-1.0.15.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_boostercards-1.0.15__3571e651.jar",
+      "size": 185170893,
+      "sha256": "467def3166c090293e6936f8bef8ca622da2682829014b5ecc563c7d59d7f3b0",
+      "type": "mod"
+    },
+    {
+      "path": "mods/CameraOverhaul-v2.1.1-fabric+mc[1.21-1.21.2].jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_CameraOverhaul-v2.1.1-fabric_mc_1.21-1.21.2___3d9ff2bc.jar",
+      "size": 140021,
+      "sha256": "a8a82ccb209537522e5dde2cbf644fc29bd3808b4dec5f310c794da9bb3ba96c",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Camerapture-1.10.12+mc1.21.1-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Camerapture-1.10.12_mc1.21.1-fabric__5f9d62fc.jar",
+      "size": 1978478,
+      "sha256": "54e87ca8d809ed7bdecad5c476233f606b666fb7dc83b1a678071c41cff7ceda",
+      "type": "mod"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_cloth-config-15.0.140-fabric__b757f42e.jar",
+      "size": 1157166,
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Controlling-fabric-1.21.1-19.0.5__c44ebf23.jar",
+      "size": 83679,
+      "sha256": "c0150c5bfbc77f27b92f24a5a9c2edc462eba8c8f912635757c5deb3a0a93f8d",
+      "type": "mod"
+    },
+    {
+      "path": "mods/craftedcore-5.8.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_craftedcore-5.8.2__73efef81.jar",
+      "size": 785306,
+      "sha256": "12a285bcf414026caa89d5a33446476b22ed42f777b21b502e1e4059a7db3ebb",
+      "type": "mod"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_create-1.21.1-6.0.10__6681fe66.jar",
+      "size": 19123767,
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+      "type": "mod"
+    },
+    {
+      "path": "mods/createdeco-2.1.3.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_createdeco-2.1.3__cecf887e.jar",
+      "size": 3328498,
+      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+      "type": "mod"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_CreativeCore_FABRIC_v2.13.39_mc1.21.1__6fc6a535.jar",
+      "size": 1247692,
+      "sha256": "a0813d3b342fae016eaad9b11a3f153efba01a2caa1221033adb865c49140f70",
+      "type": "mod"
+    },
+    {
+      "path": "mods/crittersandcompanions-lhdp-compat-1.21.1-2.3.4+arclight.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_crittersandcompanions-lhdp-compat-1.21.1-2.3.4_arclight.2__78a19e5d.jar",
+      "size": 3995862,
+      "sha256": "d9a45c639d896037759fa90fa2665a57f0a530176bcf7e5936eadea6bfa1d929",
+      "type": "mod"
+    },
+    {
+      "path": "mods/cuffed-fabric-1.21.1-1.3.14-fabric.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_cuffed-fabric-1.21.1-1.3.14-fabric.1__c6b6ecdb.jar",
+      "size": 1069229,
+      "sha256": "cce9715d97b43ecb43ce8acb5dec731d7ce419c0fdbaea037ca624aeb4a682cb",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Dawn Of Time-fabric-1.21.1-1.6.6.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Dawn_Of_Time-fabric-1.21.1-1.6.6__85093447.jar",
+      "size": 3139846,
+      "sha256": "97899029ef727d94e33853420b64598452b612d38aafdf56bb487ed72ded4d62",
+      "type": "mod"
+    },
+    {
+      "path": "mods/decocraft_nature-1.0.7-1.21.1-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_decocraft_nature-1.0.7-1.21.1-fabric__5fd055fc.jar",
+      "size": 34700606,
+      "sha256": "c6e09c176898528f61c7a279937eaae1fef3af6f1890e49b289a57341af6a052",
+      "type": "mod"
+    },
+    {
+      "path": "mods/dummmmmmy-1.21-2.0.12-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_dummmmmmy-1.21-2.0.12-fabric__28b2cb4b.jar",
+      "size": 212579,
+      "sha256": "e3166650fbb2ad46146748ebef3211125c39123c86fb992433b471a92c4a611c",
+      "type": "mod"
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_dynamic-fps-3.11.4_minecraft-1.21.0-fabric__4cf743a8.jar",
+      "size": 217532,
+      "sha256": "f66b13835282603bd6f8902faa5142e1311bb6393496b04a5df7008415b2fdf8",
+      "type": "mod"
+    },
+    {
+      "path": "mods/EmoteLHPD-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_EmoteLHPD-fabric__d0dda561.jar",
+      "size": 921551,
+      "sha256": "a61803d92dda24777d4cd8c31e26afe22cf012e26fa58f524ab1d83576a2e000",
+      "type": "mod"
+    },
+    {
+      "path": "mods/EnhancedVisuals_FABRIC_v1.8.29_mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_EnhancedVisuals_FABRIC_v1.8.29_mc1.21.1__38430b81.jar",
+      "size": 4736793,
+      "sha256": "4c44d9f7e22677a1e2490ec0fbda10ea0521f7715628d3d2331dd6d426149269",
+      "type": "mod"
+    },
+    {
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_fabric-api-0.116.17_1.21.1__93e7b69f.jar",
+      "size": 2452735,
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
+      "type": "mod"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_fabric-language-kotlin-1.13.12_kotlin.2.4.0__66db935e.jar",
+      "size": 8076848,
+      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
+      "type": "mod"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.2.5_MC_1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_fancymenu_fabric_3.2.5_MC_1.21__c88286fa.jar",
+      "size": 2691793,
+      "sha256": "623faa08d05bba7d3a81d46859fe978b15217d855b7368601d74b8f5b0ce8a35",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Female-Gender-Mod-fabric-3.2.1+1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Female-Gender-Mod-fabric-3.2.1_1.21__c9f11a42.jar",
+      "size": 962362,
+      "sha256": "7d3f94ef5306921fc0133a29716e3ddc1a1a3268fd29bfc56e6a787761efc980",
+      "type": "mod"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_ferritecore-7.0.3-fabric__b3e8e9e1.jar",
+      "size": 123450,
+      "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2",
+      "type": "mod"
+    },
+    {
+      "path": "mods/fireflybushport-fabric-1.21.1-3.7.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_fireflybushport-fabric-1.21.1-3.7.0__d0ef8763.jar",
+      "size": 53170,
+      "sha256": "da90acd565e626df6c1c86b399fe0aedef6bef341ac3cd272b4aaa5490ea88e0",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Flashback-0.39.7-for-MC1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/88TH0buq/Flashback-0.39.7-for-MC1.21.1.jar",
+      "size": 210805646,
+      "sha256": "ff79c6de124e5174688a3e7270044814beaa35617e68772d432b67909d8334cd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/flywheel-fabric-1.21.1-1.0.6-42.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_flywheel-fabric-1.21.1-1.0.6-42__193db991.jar",
+      "size": 874720,
+      "sha256": "6865ea73553222851797dab2e6049d4d5c62407a71e79d0cec23c9d9c3fca0dd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric__a3b46e6b.jar",
+      "size": 633065,
+      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+      "type": "mod"
+    },
+    {
+      "path": "mods/FramedBlocks-10.6.1-heritage.4.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_FramedBlocks-10.6.1-heritage.4__e4e95772.jar",
+      "size": 4264813,
+      "sha256": "cb74dbef1dee21597e5337d8d586173f5cca7fb53118d0349b90fb82f429c6e5",
+      "type": "mod"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_fzzy_config-0.7.6_1.21__c7a95359.jar",
+      "size": 2365335,
+      "sha256": "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d",
+      "type": "mod"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_geckolib-fabric-1.21.1-4.9.1__87bc43af.jar",
+      "size": 660426,
+      "sha256": "03fa0acba469de767f0993184cc101f80ec2b00e46b2429032aa01cd2af8d6b9",
+      "type": "mod"
+    },
+    {
+      "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_handcrafted-fabric-1.21.1-4.0.3__5386d4d1.jar",
+      "size": 7127377,
+      "sha256": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage_choixpeau-1.0.0-client.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage_choixpeau-1.0.0-client__3c8b4181.jar",
+      "size": 224851,
+      "sha256": "33801bb2958c829d7305cf9a06d8400f3f29b8e08ec57df6505321dcda5579c0",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage_schedule-1.6.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage_schedule-1.6.0__757818ea.jar",
+      "size": 572403,
+      "sha256": "c22886c143da7f553ec8bbe4c0f64a977229229418a4cccdb0bdd9222bca8526",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-botany-1.3.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-botany-1.3.2__d5d7e80b.jar",
+      "size": 711581,
+      "sha256": "5745ab8998a0a38df3ba5d3dc7546b6dc3161794c50381935cc1d2704c095266",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-chat-1.2.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-chat-1.2.0__d1dada23.jar",
+      "size": 33336610,
+      "sha256": "622d6e63505530a8e3fe9e335e6ba0631ad728697ff9bf0e5b78fcac17c55a63",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-create-kilt-compat-1.2.4.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-create-kilt-compat-1.2.4__ca0e665c.jar",
+      "size": 35591,
+      "sha256": "bd678cc12e6aa6fcaae99c93bab51a7fb232c3b6f9bc82a76a6b4e823a8a8f09",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-creatures-1.0.3.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-creatures-1.0.3__951ef71a.jar",
+      "size": 1945806,
+      "sha256": "329a8c8c8799a7d27e14ec0c493e17e02d57c75355c3ba10882d794fcd657aa5",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-customization-1.1.6.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-customization-1.1.6__e2b73a6f.jar",
+      "size": 1111186,
+      "sha256": "f912b651bd7c91908f12912092d9a298c507d72cf083addff18d707f7b08f573",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-diagnostics-1.4.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-diagnostics-1.4.0__315b3872.jar",
+      "size": 213520,
+      "sha256": "2c9ad9d45ab226c425cae032b2b67551db7cffcc6c2ca1c231c9e770241a1c02",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-emote-pack-1.0.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-emote-pack-1.0.0__0fde8be9.jar",
+      "size": 77060556,
+      "sha256": "215020e7f323912d92a78f5d1c179e872702228a869acc9e9bb82d42daa0fa21",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-emote-ui-1.0.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-emote-ui-1.0.0__ba55056e.jar",
+      "size": 54483,
+      "sha256": "1e0d0906ff625d351debba21cae711d44c973380142f4bac6742a613351dadd7",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-fantasy-furniture-fabric-1.21.1-2.1.4.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-fantasy-furniture-fabric-1.21.1-2.1.4__68e31f3a.jar",
+      "size": 813074,
+      "sha256": "7e263f928574b1904b9b81d14ddebc3f899ba69fa67b633ca088b60848b71ce4",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-female-gender-fr-1.21.1-2.0.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-female-gender-fr-1.21.1-2.0.1__fcf1e530.jar",
+      "size": 23753,
+      "sha256": "83bcbedeef65f0784e2a17b7ac44d625361e600e933b8b285350edd03f37ec36",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-first-join-fix-1.0.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-first-join-fix-1.0.0__02863067.jar",
+      "size": 4462,
+      "sha256": "3c7de58bde7452066f4c9f18f6f0429ee1d298a860d5349158f03721bcdbab33",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-kilt-supplementaries-bridge-1.21.1-1.0.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-kilt-supplementaries-bridge-1.21.1-1.0.0__49a601b7.jar",
+      "size": 8809,
+      "sha256": "89fc0ddba791081255a5a33407e9d0185b969698bf3974f5de94aba53482375b",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-menu-music-1.0.9.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-menu-music-1.0.9__ef1922f8.jar",
+      "size": 3988442,
+      "sha256": "7f184b822b8039ea3b7683da56694dee80f8a12df4f54e26f1e5f7047c275bdd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-morph-menu-1.0.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-morph-menu-1.0.1__ca5b5afa.jar",
+      "size": 46440,
+      "sha256": "80df1853a2878dfeb5ee7ac68743de4010a55844b4010b678b9d42f8f49394b0",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-pause-menu-fix-1.2.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-pause-menu-fix-1.2.0__05b1bb6a.jar",
+      "size": 8391,
+      "sha256": "5c293a4bbc093722e65901654e2c3cde02ff5c3aae4b521235a00612ff710d4f",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-player-privacy-1.2.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-player-privacy-1.2.2__6b523491.jar",
+      "size": 12250,
+      "sha256": "51c4e561893f3528bb85654122e4abfc6d2c4b30d566c079ad2bff174978f94e",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-potions-1.0.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-potions-1.0.0__6898c8a7.jar",
+      "size": 10466416,
+      "sha256": "88fb809199185728c2b0c3e6b8d2ad839c7eae06e9c55955aa0e82c63953d0c1",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-quidditch-1.0.0-alpha.8.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-quidditch-1.0.0-alpha.8__93778802.jar",
+      "size": 969173,
+      "sha256": "e46bb3b4698dfa4a06f93c33ca21c56e17d66fad681c18614e7f9ae10b626b7c",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-travel-1.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-travel-1.1.0__7086b740.jar",
+      "size": 231797,
+      "sha256": "40e73201b31e05e782d42bb13e35120b3cd23d7615e749bc4e6507c6f5653266",
+      "type": "mod"
+    },
+    {
+      "path": "mods/heritage-yuushya-double-bed-1.0.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-yuushya-double-bed-1.0.1__d5b04364.jar",
+      "size": 20103,
+      "sha256": "429c167b74b62c3ca908d6ca6793f7b35a3f5ee71665d97cd8d95954ab4781c8",
+      "type": "mod"
+    },
+    {
+      "path": "mods/HeritageHud-fabric-1.21.1-1.8.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_HeritageHud-fabric-1.21.1-1.8.1__5c151e4c.jar",
+      "size": 582432,
+      "sha256": "b08cbe83490af2094524db92f37f7f455ecb2ba7533b4b7887279c09b1527324",
+      "type": "mod"
+    },
+    {
+      "path": "mods/hprp-aslan-0.1.140.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_hprp-aslan-0.1.140__3f55f966.jar",
+      "size": 54318220,
+      "sha256": "506efe658a5e18c530c2f5324c15274cf7eb5afab3e4293ecc4f6d726b063935",
+      "type": "mod"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_ImmediatelyFast-Fabric-1.6.10_1.21.1__8c1ab598.jar",
+      "size": 342770,
+      "sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersive_furniture-fabric-0.2.2+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_immersive_furniture-fabric-0.2.2_1.21.1__2429b970.jar",
+      "size": 930644,
+      "sha256": "fac92585783eff3953884593c91f5b3b875db8aa3d713cca9d7db571698c7bd0",
+      "type": "mod"
+    },
+    {
+      "path": "mods/immersive_melodies-fabric-0.6.4+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_immersive_melodies-fabric-0.6.4_1.21.1__f21efbd4.jar",
+      "size": 5531820,
+      "sha256": "cd08cd76975ea98fcafbe555f20b592e2a5ffc5433eb6b0b6bf98338fe47f597",
+      "type": "mod"
+    },
+    {
+      "path": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_iris-fabric-1.8.14-beta.1_mc1.21.1__09852b95.jar",
+      "size": 2791343,
+      "sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
+      "type": "mod"
+    },
+    {
+      "path": "mods/jupiter-2.3.4-1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/XbiLGMMU/versions/5pNXzmee/jupiter-2.3.4-1.21.1-fabric.jar",
+      "size": 577665,
+      "sha256": "904f6367c306084c7bcdf5b46a9bb991d23d268484585cc3f72cea806a0d32af",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Kilt-21.1.10-heritage.12.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Kilt-21.1.10-heritage.12__10ef66d8.jar",
+      "size": 36043790,
+      "sha256": "93e8cca6b70ee8826ff83b20f26ccea4e91e3ff6521ead4c885e68fcaeaab41c",
+      "type": "mod"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_konkrete_fabric_1.9.9_MC_1.21__04f1c47c.jar",
+      "size": 786695,
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "type": "mod"
+    },
+    {
+      "path": "mods/lazrslib-fabric-1.21.1-1.2.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_lazrslib-fabric-1.21.1-1.2.0__be70c4a8.jar",
+      "size": 365039,
+      "sha256": "b856209e6de01f9c0c12718220d24b987f41ebf7dc73655274d22b5447f6e319",
+      "type": "mod"
+    },
+    {
+      "path": "mods/lhdp-tab-ui-2.4.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_lhdp-tab-ui-2.4.1__42ecd166.jar",
+      "size": 700944,
+      "sha256": "a8eb7329bed184f33418bb55ca0126bf40d8161b09b92a17bd6363f3e8798b93",
+      "type": "mod"
+    },
+    {
+      "path": "mods/lhdpsecret-0.2.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_lhdpsecret-0.2.0__ba17e5ef.jar",
+      "size": 83406369,
+      "sha256": "258ec610814777f3c6d85a0b61101a604cc1f6e76742731cd706849cf589556b",
+      "type": "mod"
+    },
+    {
+      "path": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_lithium-fabric-0.15.4_mc1.21.1__a4e49dd7.jar",
+      "size": 797454,
+      "sha256": "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Luckys-Cozyhome-Refurnished-1.1.20__efe8c6f5.jar",
+      "size": 3121070,
+      "sha256": "0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66",
+      "type": "mod"
+    },
+    {
+      "path": "mods/magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_magic_vibe_decorations-2.8.0-fabric-1.21-1.21.1__4f100d9c.jar",
+      "size": 1936101,
+      "sha256": "44cd6ef4a5ca3671be413f041c0da66c8bbf325fd3156b5f81c62ace2c869fae",
+      "type": "mod"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_mcw-doors-1.1.5-mc1.21.1fabric__2f3e618b.jar",
+      "size": 1219302,
+      "sha256": "36b12175ad87cefcbde35b187b9a1c5ce9e1af1471edf6c5064ebd1a8c868ef1",
+      "type": "mod"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_mcw-furniture-3.4.1-mc1.21.1fabric__7c0fb13f.jar",
+      "size": 2087232,
+      "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
+      "type": "mod"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_melody_fabric_1.0.10_MC_1.21__ee0e7a31.jar",
+      "size": 188035,
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "type": "mod"
+    },
+    {
+      "path": "mods/moonlight-fabric-1.21.1-3.0.20.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_moonlight-fabric-1.21.1-3.0.20__5e02df34.jar",
+      "size": 1645813,
+      "sha256": "d568d178284238744709b17221f68570019e9f8e16b9ca36792fbae62ecd5b33",
+      "type": "mod"
+    },
+    {
+      "path": "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_notenoughanimations-fabric-1.12.4-mc1.21.1__9de8f755.jar",
+      "size": 1948132,
+      "sha256": "12e3bded47f6669030edf57b615e77de8d080f38d0313dd892c6d18833fc39fd",
+      "type": "mod"
+    },
+    {
+      "path": "mods/observable-5.4.4.jar",
+      "url": "https://cdn.modrinth.com/data/VYRu7qmG/versions/K7DPuMxY/observable-5.4.4.jar",
+      "size": 386692,
+      "sha256": "738ba288b0e5630f0c1bccaf04ba181205cbf98fb421c9d8a782e75d5f7e356e",
+      "type": "mod"
+    },
+    {
+      "path": "mods/ok_zoomer-fabric-10.0.0-beta.13.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_ok_zoomer-fabric-10.0.0-beta.13__aed4c935.jar",
+      "size": 209427,
+      "sha256": "e9fd293a36df5e3e1fc8987b1c536b85bf0475d57e9f1b10a9a7f448a8337e03",
+      "type": "mod"
+    },
+    {
+      "path": "mods/owo-lib-0.12.15.4+1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_owo-lib-0.12.15.4_1.21__c7a92696.jar",
+      "size": 1183559,
+      "sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+      "type": "mod"
+    },
+    {
+      "path": "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_paladin-furniture-mod-1.4.4-fabric-mc1.21.1__503c9c7e.jar",
+      "size": 5831963,
+      "sha256": "b2ebbccb2ca1a3a6f02e906c554d2097f4a46bfcbe8a7d7bae8625faf866d185",
+      "type": "mod"
+    },
+    {
+      "path": "mods/panneau-1.21.1-1.1.0.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_panneau-1.21.1-1.1.0__3c427272.jar",
+      "size": 70366,
+      "sha256": "f00929f503c0b1e6830b306b40b95a4bd5efe4e21d3974df8249e4caf03bfd35",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Pehkui-3.8.3_1.14.4-1.21__1d85ed14.jar",
+      "size": 555041,
+      "sha256": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b",
+      "type": "mod"
+    },
+    {
+      "path": "mods/placeable-plants-1.3.0-alpha.2+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_placeable-plants-1.3.0-alpha.2_1.21.1__28f074a7.jar",
+      "size": 56332,
+      "sha256": "248fe100730ae005e082294ed7c3e0bc02540c9ea8e6d980b65778e39177778f",
+      "type": "mod"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.2+1.21.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_placeholder-api-2.4.2_1.21__ec25baee.jar",
+      "size": 232325,
+      "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "type": "mod"
+    },
+    {
+      "path": "mods/plasmovoice-fabric-1.21.1-2.1.15.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_plasmovoice-fabric-1.21.1-2.1.15__78823624.jar",
+      "size": 12353125,
+      "sha256": "c043597e9f8e57d78ce436bac22ee3a4e2b103221137fab900b65902175a5082",
+      "type": "mod"
+    },
+    {
+      "path": "mods/railways-0.3.0-beta+neoforge-mc1.21.1-heritage.5.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_railways-0.3.0-beta_neoforge-mc1.21.1-heritage.5__0ec18c2d.jar",
+      "size": 18944248,
+      "sha256": "395baae2c99d44c44dfbdf0b34c1dd5967d2d74b586e32cd206464391a9acabe",
+      "type": "mod"
+    },
+    {
+      "path": "mods/ReFramed-1.6.6-heritage.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_ReFramed-1.6.6-heritage.1__b03acdba.jar",
+      "size": 726528,
+      "sha256": "0191fa110ea2b9f1754b19c22cc58d47fb87fbdf5d846b839da9ccf796f008c2",
+      "type": "mod"
+    },
+    {
+      "path": "mods/remorphed-4.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_remorphed-4.2__ba210c84.jar",
+      "size": 92463,
+      "sha256": "baeda5d7fcc1d713603c83679cfb70ff3d2294e1a1ac50d1e91c43168ed0e07c",
+      "type": "mod"
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_resourcefullib-fabric-1.21-3.0.12__878d07f2.jar",
+      "size": 485586,
+      "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+      "type": "mod"
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_resourcefullib-neoforge-1.21-3.0.12__cdb46c18.jar",
+      "size": 484332,
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Searchables-fabric-1.21.1-1.0.2__e0fb374d.jar",
+      "size": 79531,
+      "sha256": "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76",
+      "type": "mod"
+    },
+    {
+      "path": "mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_skinlayers3d-fabric-1.11.2-mc1.21.1__16ba708b.jar",
+      "size": 1988649,
+      "sha256": "392dd2e967f2ff3c83bd5fe71e528a05dd6a5f01bf4f0027b8fbe88d5f68c95b",
+      "type": "mod"
+    },
+    {
+      "path": "mods/snuffles-1.3.0+1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_snuffles-1.3.0_1.21.1__963bee3b.jar",
+      "size": 389839,
+      "sha256": "4d8bfe69bfec45042e025f8dddc45e1c19cb8ddacba0066e517fda769bd4bc92",
+      "type": "mod"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12-beta.2+mc1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_sodium-fabric-0.8.12-beta.2_mc1.21.1__97ac7844.jar",
+      "size": 1573186,
+      "sha256": "ffe163da338e02547f31875be6a284879bda7c686b46c6b28bd75a2390e68b42",
+      "type": "mod"
+    },
+    {
+      "path": "mods/spark-1.10.109-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_spark-1.10.109-fabric__7c946ee5.jar",
+      "size": 3609981,
+      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+      "type": "mod"
+    },
+    {
+      "path": "mods/staffpanelrp-1.1.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_staffpanelrp-1.1.1__fcbaff9d.jar",
+      "size": 1643295,
+      "sha256": "8d53b496dda4f6934df97dc269ebf9f25d15c6b7a610544c3c8298c1d5d07ac1",
+      "type": "mod"
+    },
+    {
+      "path": "mods/supplementaries-fabric-1.21.1-3.6.7.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_supplementaries-fabric-1.21.1-3.6.7__0af9c4a5.jar",
+      "size": 13166422,
+      "sha256": "77dd8fc86bfe1d6466235f3258a6abff3ca97e418a87fde99511676164c935f6",
+      "type": "mod"
+    },
+    {
+      "path": "mods/Unified-Dragons-IceAndFireCE-fabric-2.0-beta.15.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_Unified-Dragons-IceAndFireCE-fabric-2.0-beta.15__17eba009.jar",
+      "size": 43292060,
+      "sha256": "b94afe5ea969c7633e5c7e17fae6fc782726dd71221259e7644eaf55f47d51af",
+      "type": "mod"
+    },
+    {
+      "path": "mods/uranus-2.4-1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/3Acxy864/versions/FH0tB0dy/uranus-2.4-1.21.1-fabric.jar",
+      "size": 855511,
+      "sha256": "0b1b3255c19b2cf9ba2affcd9a3dc8ce71b0cd029a926c5340df318d1cc71275",
+      "type": "mod"
+    },
+    {
+      "path": "mods/walkers-5.8.11.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_walkers-5.8.11__7c5954e5.jar",
+      "size": 1141016,
+      "sha256": "0408081a11e08f8452aa5f28ce7ee0b73c31f22d0d808195ebc71a0ef5940074",
+      "type": "mod"
+    },
+    {
+      "path": "mods/wanna_play_chess-1.0+1.21-1.21.1.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_wanna_play_chess-1.0_1.21-1.21.1__31967531.jar",
+      "size": 431277,
+      "sha256": "cd0791b18347535f8570ed2a1e41c8797b56a32ec0c651ea051802f68363c062",
+      "type": "mod"
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_worldedit-mod-7.3.8__b32f2cfe.jar",
+      "size": 6222854,
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "type": "mod"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_yet_another_config_lib_v3-3.8.2_1.21.1-fabric__9fc2bb63.jar",
+      "size": 1131265,
+      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1",
+      "type": "mod"
+    },
+    {
+      "path": "mods/yuushya-1.21.0-fabric-2.3.0+heritage.2.jar",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_yuushya-1.21.0-fabric-2.3.0_heritage.2__cb61de49.jar",
+      "size": 29236439,
+      "sha256": "62ac82847f12c0498977f9642a1681175856cf0abcd02073efc805c2133052bc",
+      "type": "mod"
+    },
+    {
+      "path": "resourcepacks/ApexCore-ressources-officielles-21.4.25.zip",
+      "url": "https://cdn.modrinth.com/data/xl3myxch/versions/YSLAuv4l/apexcore-21.4.25.jar",
+      "size": 818403,
+      "sha256": "4a835fa4bfe87687eb2896ddbc498c9c619d43a8bbfb88c1ea2a870bbdf933b9",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-bone-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/oJ4TI49S/versions/2wWMR3sX/fantasyfurniture-bone-21.4.112.jar",
+      "size": 640421,
+      "sha256": "984b7267d041ce06b3ae8113f9183053ceb9760054edffe5b7353ef0e1999fd3",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-core-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/A0nfCqYw/versions/bU2IoZZr/fantasyfurniture-21.4.112.jar",
+      "size": 255241,
+      "sha256": "c9fd5644bd9267d28d088693f1c2ae7e15229cd86a74dc7dd86cae8a843688f0",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-dunmer-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/Bs7e2IyQ/versions/bwdgE3kL/fantasyfurniture-dunmer-21.4.112.jar",
+      "size": 373915,
+      "sha256": "4052c5838ce2a976603cc82a5c0a2a9eab9641b14f77599a7e1fca9adcd8c613",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-necrolord-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/V9TnGtTg/versions/2vrr0cCs/fantasyfurniture-necrolord-21.4.112.jar",
+      "size": 396608,
+      "sha256": "846065a0052b42a11e34b6dffe0ba1ab7d12b16f8d1baca3c81e9f6cadd25cad",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-nordic-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/DIHzMa8h/versions/BMwCttBC/fantasyfurniture-nordic-21.4.112.jar",
+      "size": 290251,
+      "sha256": "37197840d67c0366958dcf3dfc57a9b10ded697b45ad637134db9f27a59cbfa2",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-royal-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/OIAm13ki/versions/Sgn6y5Rr/fantasyfurniture-royal-21.4.112.jar",
+      "size": 341328,
+      "sha256": "f85b21fad969931a478b1053f2e38c78570f4b2b6eed9105c6f8bdf128e74705",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/FantasyFurniture-venthyr-officiel-21.4.112.zip",
+      "url": "https://cdn.modrinth.com/data/FjHW4JvP/versions/4wdGg2pK/fantasyfurniture-venthyr-21.4.112.jar",
+      "size": 380834,
+      "sha256": "58414f74cffa5a7fe637334433143e02660a53ad46e05c2ac41c4e458d47e09f",
+      "type": "resourcepack"
+    },
+    {
+      "path": "resourcepacks/HeritagePoudlard.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/resourcepacks_HeritagePoudlard__766d67a6.zip",
+      "size": 21930538,
+      "sha256": "451d4c9ceac13de6ae80aa52e8852aca1e151406fb9b7cba471c63ab2676d9b8",
+      "type": "resourcepack"
+    },
+    {
+      "path": "shaderpacks/Aurora's Shaders.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_Aurora_s_Shaders__d2de28d6.zip",
+      "size": 403810,
+      "sha256": "3bd9576c623f00065e4c58a765f74845158f6d4e97bd98b0a8f7277c89002f98",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_Bliss_v2.1.2_Chocapic13_Shaders_edit___de0bb36e.zip",
+      "size": 1791406,
+      "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_ComplementaryReimagined_r5.8.1__60621503.zip",
+      "size": 546925,
+      "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_ComplementaryUnbound_r5.8.1__26a915d5.zip",
+      "size": 546928,
+      "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Noble v1.9.3.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_Noble_v1.9.3__c0f1a7c8.zip",
+      "size": 11503036,
+      "sha256": "e9ebc81891558460d70aebbf91ffb02820c9be09d8e159b40449d967d6675b35",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_photon_v1.3b__7402c3a7.zip",
+      "size": 3800987,
+      "sha256": "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.7.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_Solas_Shader_V3.7__39bb5580.zip",
+      "size": 1241525,
+      "sha256": "c8f53e66e567f2e8eacddbcc31ecbb6d77ac5f594d19423247c2a96c44d96a47",
+      "type": "shaderpack"
+    },
+    {
+      "path": "shaderpacks/superDuperVanilla.zip",
+      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/shaderpacks_superDuperVanilla__e8dc0966.zip",
+      "size": 2851664,
+      "sha256": "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795",
+      "type": "shaderpack"
+    }
+  ],
+  "contentId": "a41e63049a2d648c8be46b63affdc6f7140c0fda395221849d353becf3456dfe"
+}
