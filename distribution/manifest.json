@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.248",
+  "modpackVersion": "1.0.249",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-09-16T21:11:56Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-61d3c338c8902d9390e79ec2/",
+  "generatedAt": "2026-10-02T14:51:04Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-127d38ae11dc4725e6a04269/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1009,10 +1009,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/crittersandcompanions-lhdp-compat-1.21.1-2.3.4+arclight.2.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_crittersandcompanions-lhdp-compat-1.21.1-2.3.4_arclight.2__78a19e5d.jar",
-      "size": 3995862,
-      "sha256": "d9a45c639d896037759fa90fa2665a57f0a530176bcf7e5936eadea6bfa1d929",
+      "path": "mods/crittersandcompanions-fabric-1.21.1-2.3.4.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-127d38ae11dc4725e6a04269/80afd705b02b68ba-mods_crittersandcompanions-fabric-1.21.1-2.3.4.jar",
+      "size": 3996131,
+      "sha256": "80afd705b02b68baf2199421a112cb806697ffe6b28cc5bdd860eb305d1a949a",
       "type": "mod"
     },
     {
@@ -1660,6 +1660,6 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-61d3c338c8902d9390e79ec2",
-  "contentId": "61d3c338c8902d9390e79ec238794646325def6690c0cac760ce30adafbe5ec3"
+  "revision": "pack-127d38ae11dc4725e6a04269",
+  "contentId": "127d38ae11dc4725e6a04269a31c3ac662f8fd9a3038311578d2ca9a1e0d1d13"
 }
