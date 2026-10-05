@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.250",
+  "modpackVersion": "1.0.251",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-10-05T13:04:01Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-56de081d0b5a060c31b0e07a/",
+  "generatedAt": "2026-10-05T15:07:36Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-05d2fe421c8acce2e993b876/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1492,6 +1492,13 @@
       "type": "mod"
     },
     {
+      "path": "mods/voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-05d2fe421c8acce2e993b876/c838392cf274cb2c-mods_voxy-0.2.14-alpha-f308c254fafc23bdcc250ba3f1e5c6a7585f08d0.jar",
+      "size": 12598736,
+      "sha256": "c838392cf274cb2cb3530ec63c12098258efd92fe7765dc1a9c0417e44c4529e",
+      "type": "mod"
+    },
+    {
       "path": "mods/walkers-5.8.11.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_walkers-5.8.11__7c5954e5.jar",
       "size": 1141016,
@@ -1646,6 +1653,6 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-56de081d0b5a060c31b0e07a",
-  "contentId": "56de081d0b5a060c31b0e07a724469214f00138f1b1803a5390e39f34da68bda"
+  "revision": "pack-05d2fe421c8acce2e993b876",
+  "contentId": "05d2fe421c8acce2e993b876f70eceb968fcd47a049cdc9d6977f930bbe4ae57"
 }
