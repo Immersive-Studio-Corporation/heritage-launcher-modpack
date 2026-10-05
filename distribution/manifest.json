@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.249",
+  "modpackVersion": "1.0.250",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-10-02T14:51:04Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-127d38ae11dc4725e6a04269/",
+  "generatedAt": "2026-10-05T13:04:01Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-56de081d0b5a060c31b0e07a/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1128,13 +1128,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-creatures-1.0.3.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-creatures-1.0.3__951ef71a.jar",
-      "size": 1945806,
-      "sha256": "329a8c8c8799a7d27e14ec0c493e17e02d57c75355c3ba10882d794fcd657aa5",
-      "type": "mod"
-    },
-    {
       "path": "mods/heritage-customization-1.1.6.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-customization-1.1.6__e2b73a6f.jar",
       "size": 1111186,
@@ -1251,13 +1244,6 @@
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage_choixpeau-1.0.0-client__3c8b4181.jar",
       "size": 224851,
       "sha256": "33801bb2958c829d7305cf9a06d8400f3f29b8e08ec57df6505321dcda5579c0",
-      "type": "mod"
-    },
-    {
-      "path": "mods/heritage_schedule-1.6.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage_schedule-1.6.0__757818ea.jar",
-      "size": 572403,
-      "sha256": "c22886c143da7f553ec8bbe4c0f64a977229229418a4cccdb0bdd9222bca8526",
       "type": "mod"
     },
     {
@@ -1660,6 +1646,6 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-127d38ae11dc4725e6a04269",
-  "contentId": "127d38ae11dc4725e6a04269a31c3ac662f8fd9a3038311578d2ca9a1e0d1d13"
+  "revision": "pack-56de081d0b5a060c31b0e07a",
+  "contentId": "56de081d0b5a060c31b0e07a724469214f00138f1b1803a5390e39f34da68bda"
 }
