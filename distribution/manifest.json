@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.251",
+  "modpackVersion": "1.0.252",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-01T09:49:32.987Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/",
+  "generatedAt": "2026-11-01T10:01:40.284Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -191,9 +191,9 @@
     },
     {
       "path": "config/fancymenu/assets/heritage/heritage-menu-background-static.png",
-      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/70b2da1e3755eb3c-config_fancymenu_assets_heritage_heritage-menu-background-static.png",
-      "size": 2188757,
-      "sha256": "70b2da1e3755eb3c7ba7c46f7181aae7d0a6c2f06ab633fded1952c6e61370ba",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/7741a73f7d6fa5da-config_fancymenu_assets_heritage_heritage-menu-background-static.png",
+      "size": 2041962,
+      "sha256": "7741a73f7d6fa5da525fd7610fb251e6fdd040d76f2f0b61db62bc70c5e373b9",
       "type": "config"
     },
     {
@@ -212,9 +212,9 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/bbc941c1b7f6b19a-config_fancymenu_customizablemenus.txt",
-      "size": 249,
-      "sha256": "bbc941c1b7f6b19a350e57108b82e633529dc10b22e0e2e37226b4f293f3e088",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/fbcbf978cfabe044-config_fancymenu_customizablemenus.txt",
+      "size": 396,
+      "sha256": "fbcbf978cfabe0445fda69766ebd261414f5f89f14de613f08051f6d1e63310b",
       "type": "config"
     },
     {
@@ -246,10 +246,45 @@
       "type": "config"
     },
     {
+      "path": "config/fancymenu/customization/heritage-static-generic_dirt_message_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/3003b5aa1a337f77-config_fancymenu_customization_heritage-static-generic_dirt_message_screen.txt",
+      "size": 1293,
+      "sha256": "3003b5aa1a337f77455ad5350d7fc9c6f73ecb1e994b5fa0a3b281df542eedaa",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-generic_waiting_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/27215ba93a13d0e6-config_fancymenu_customization_heritage-static-generic_waiting_screen.txt",
+      "size": 1278,
+      "sha256": "27215ba93a13d0e63bdd3dfec802d8cdab5a14023c979cb7124b835048e6af57",
+      "type": "config"
+    },
+    {
       "path": "config/fancymenu/customization/heritage-static-join_multiplayer_screen.txt",
       "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/47fdae4e9c8c6726-config_fancymenu_customization_heritage-static-join_multiplayer_screen.txt",
       "size": 1281,
       "sha256": "47fdae4e9c8c672699d4aaa7fbe1e7a069d0abd80c797c5f8f717b727fbe6518",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-level_loading_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/ab29ed716eb38b5b-config_fancymenu_customization_heritage-static-level_loading_screen.txt",
+      "size": 1272,
+      "sha256": "ab29ed716eb38b5b78c2ca5385b5886c0642b388ab98b4032de0981db4654ebf",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-progress_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/719ee1eee62b8b0d-config_fancymenu_customization_heritage-static-progress_screen.txt",
+      "size": 1257,
+      "sha256": "719ee1eee62b8b0d0ffa7fb95e2b7fea0a4f794af1704f7ca1fbe5e1cfb0b0e3",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-receiving_level_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/3da9549de1a687da-config_fancymenu_customization_heritage-static-receiving_level_screen.txt",
+      "size": 1278,
+      "sha256": "3da9549de1a687dadaad83154a4b1789b5b3a7af94d3617081b3091be25170b4",
       "type": "config"
     },
     {
@@ -1702,6 +1737,6 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-ee1724bbe10a0b4fdd9f3da8",
-  "contentId": "ee1724bbe10a0b4fdd9f3da83f91b763b861e3651e954a5c61d42d24d8143689"
+  "revision": "pack-7d409d67f269670c858ccbcf",
+  "contentId": "7d409d67f269670c858ccbcfeb0c347b06140e6167471c73ec3402414ddc084a"
 }
