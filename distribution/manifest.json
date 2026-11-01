@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.250",
+  "modpackVersion": "1.0.251",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-10-05T13:04:01Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-56de081d0b5a060c31b0e07a/",
+  "generatedAt": "2026-11-01T09:49:32.987Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -190,6 +190,13 @@
       "type": "config"
     },
     {
+      "path": "config/fancymenu/assets/heritage/heritage-menu-background-static.png",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/70b2da1e3755eb3c-config_fancymenu_assets_heritage_heritage-menu-background-static.png",
+      "size": 2188757,
+      "sha256": "70b2da1e3755eb3c7ba7c46f7181aae7d0a6c2f06ab633fded1952c6e61370ba",
+      "type": "config"
+    },
+    {
       "path": "config/fancymenu/assets/heritage/heritage-menu-background.png",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_assets_heritage_heritage-menu-background__970157e7.png",
       "size": 3612707,
@@ -205,16 +212,58 @@
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_customizablemenus__7ad516ff.txt",
-      "size": 75,
-      "sha256": "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/bbc941c1b7f6b19a-config_fancymenu_customizablemenus.txt",
+      "size": 249,
+      "sha256": "bbc941c1b7f6b19a350e57108b82e633529dc10b22e0e2e37226b4f293f3e088",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-connect_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/726ccb904e2aa108-config_fancymenu_customization_heritage-static-connect_screen.txt",
+      "size": 1254,
+      "sha256": "726ccb904e2aa108c4e80f8a84ddac9ecced391945d777f6964b9f22047f2de2",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-direct_join_server_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/06ef45e85208da82-config_fancymenu_customization_heritage-static-direct_join_server_screen.txt",
+      "size": 1287,
+      "sha256": "06ef45e85208da824731e31a7cddb2a0f68655e8d8122fdda863e6c50d24976e",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-disconnected_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/279250599beb6323-config_fancymenu_customization_heritage-static-disconnected_screen.txt",
+      "size": 1269,
+      "sha256": "279250599beb6323409b73edfd21c6e97b49c4c7fb3f64603683459c77461e6b",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-edit_server_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/4fb55728a0425cc4-config_fancymenu_customization_heritage-static-edit_server_screen.txt",
+      "size": 1266,
+      "sha256": "4fb55728a0425cc499a8f82f4ae6fa153f4297cf8d9733ab13839d7b0eb7c295",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-join_multiplayer_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/47fdae4e9c8c6726-config_fancymenu_customization_heritage-static-join_multiplayer_screen.txt",
+      "size": 1281,
+      "sha256": "47fdae4e9c8c672699d4aaa7fbe1e7a069d0abd80c797c5f8f717b727fbe6518",
+      "type": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/heritage-static-select_world_screen.txt",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/0f63cb682f17f54f-config_fancymenu_customization_heritage-static-select_world_screen.txt",
+      "size": 1269,
+      "sha256": "0f63cb682f17f54ff91029a8d24608f1a464aed11a4f887429b270a49e30fdd8",
       "type": "config"
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/config_fancymenu_customization_title_screen_layout__4eda34f1.txt",
-      "size": 48611,
-      "sha256": "1ba78b49e4dc686cabd9020a8e1c7620e93c20f18675009482f2cda40d3f8420",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/8fb47ad6a3b661fd-config_fancymenu_customization_title_screen_layout.txt",
+      "size": 48619,
+      "sha256": "8fb47ad6a3b661fd6a97ac37029289b5f0f08709c247e6d655b5dea154708f40",
       "type": "config"
     },
     {
@@ -411,6 +460,13 @@
       "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-61d3c338c8902d9390e79ec2/4f77d4e59bbee910-config_hprpaslan_wands.properties",
       "size": 65,
       "sha256": "4f77d4e59bbee910d83d2e56d92a98eb2b78c1645197c509f41e9a4ff7848688",
+      "type": "config"
+    },
+    {
+      "path": "config/iceandfire/iaf-client.json",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-ee1724bbe10a0b4fdd9f3da8/0f338c822ebc6cad-config_iceandfire_iaf-client.json",
+      "size": 110,
+      "sha256": "0f338c822ebc6cad040079c0959987c141e8847b73cb6f75b4c2e8044c8e7be0",
       "type": "config"
     },
     {
@@ -1646,6 +1702,6 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-56de081d0b5a060c31b0e07a",
-  "contentId": "56de081d0b5a060c31b0e07a724469214f00138f1b1803a5390e39f34da68bda"
+  "revision": "pack-ee1724bbe10a0b4fdd9f3da8",
+  "contentId": "ee1724bbe10a0b4fdd9f3da83f91b763b861e3651e954a5c61d42d24d8143689"
 }
