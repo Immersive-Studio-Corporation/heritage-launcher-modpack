@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.256",
+  "modpackVersion": "1.0.257",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-17T12:15:03.826Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
+  "generatedAt": "2026-11-17T16:39:36Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-85e6354652c919e1e9730680/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1163,11 +1163,11 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-botany-1.3.2.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-botany-1.3.2__d5d7e80b.jar",
-      "size": 711581,
-      "sha256": "5745ab8998a0a38df3ba5d3dc7546b6dc3161794c50381935cc1d2704c095266",
-      "type": "mod"
+      "path": "mods/heritage-botany-potions-1.4.0.jar",
+      "size": 11201298,
+      "sha256": "9ee2f7996332f005fc09b5f59ab3bce7f2d881df97ba197f7f829bcb941a91c2",
+      "type": "mod",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-85e6354652c919e1e9730680/9ee2f7996332f005-mods_heritage-botany-potions-1.4.0.jar"
     },
     {
       "path": "mods/heritage-chat-1.2.0.jar",
@@ -1251,13 +1251,6 @@
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-player-privacy-1.2.2__6b523491.jar",
       "size": 12250,
       "sha256": "51c4e561893f3528bb85654122e4abfc6d2c4b30d566c079ad2bff174978f94e",
-      "type": "mod"
-    },
-    {
-      "path": "mods/heritage-potions-1.0.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-potions-1.0.0__6898c8a7.jar",
-      "size": 10466416,
-      "sha256": "88fb809199185728c2b0c3e6b8d2ad839c7eae06e9c55955aa0e82c63953d0c1",
       "type": "mod"
     },
     {
@@ -1377,6 +1370,13 @@
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_melody_fabric_1.0.10_MC_1.21__ee0e7a31.jar",
       "size": 188035,
       "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "type": "mod"
+    },
+    {
+      "path": "mods/modmenu-11.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
+      "size": 973059,
+      "sha256": "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3",
       "type": "mod"
     },
     {
@@ -1503,6 +1503,13 @@
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_spark-1.10.109-fabric__7c946ee5.jar",
       "size": 3609981,
       "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+      "type": "mod"
+    },
+    {
+      "path": "mods/spatial-gui-1.11.1-hotfix+1.21.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/NxZnp6SG/spatial-gui-1.11.1-hotfix%2B1.21.1-fabric.jar",
+      "size": 744877,
+      "sha256": "da3a1acd96e70276731742268043690838f90b06e482eee3f1d80d7bd169105a",
       "type": "mod"
     },
     {
@@ -1681,5 +1688,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "449620ee54394252bae9b636855bb0ce9cf00ecb8fd2ba0fca6fb3c7cd5e8c5d"
+  "contentId": "85e6354652c919e1e9730680f39d39df1a9e18f5a97ce981ac3b0cf5bb663283",
+  "revision": "pack-85e6354652c919e1e9730680"
 }
