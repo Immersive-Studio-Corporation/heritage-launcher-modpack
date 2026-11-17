@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.255",
+  "modpackVersion": "1.0.256",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-17T11:11:54.576Z",
+  "generatedAt": "2026-11-17T12:15:03.826Z",
   "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
   "launcher": {
     "name": "Héritage Launcher",
@@ -1261,13 +1261,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-quidditch-1.0.0-alpha.8.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-quidditch-1.0.0-alpha.8__93778802.jar",
-      "size": 969173,
-      "sha256": "e46bb3b4698dfa4a06f93c33ca21c56e17d66fad681c18614e7f9ae10b626b7c",
-      "type": "mod"
-    },
-    {
       "path": "mods/heritage-travel-1.1.0.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-travel-1.1.0__7086b740.jar",
       "size": 231797,
@@ -1688,5 +1681,5 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "5109223cdfdac6724fdacf4aa8bf577bd2fa95154b8dc50957439c1f04e30159"
+  "contentId": "449620ee54394252bae9b636855bb0ce9cf00ecb8fd2ba0fca6fb3c7cd5e8c5d"
 }
