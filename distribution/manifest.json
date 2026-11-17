@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.254",
+  "modpackVersion": "1.0.255",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-17T10:48:01.960Z",
+  "generatedAt": "2026-11-17T11:11:54.576Z",
   "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
   "launcher": {
     "name": "Héritage Launcher",
@@ -1184,20 +1184,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-customization-1.1.6.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-customization-1.1.6__e2b73a6f.jar",
-      "size": 1111186,
-      "sha256": "f912b651bd7c91908f12912092d9a298c507d72cf083addff18d707f7b08f573",
-      "type": "mod"
-    },
-    {
-      "path": "mods/heritage-diagnostics-1.4.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-diagnostics-1.4.0__315b3872.jar",
-      "size": 213520,
-      "sha256": "2c9ad9d45ab226c425cae032b2b67551db7cffcc6c2ca1c231c9e770241a1c02",
-      "type": "mod"
-    },
-    {
       "path": "mods/heritage-emote-pack-1.0.0.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-emote-pack-1.0.0__0fde8be9.jar",
       "size": 77060556,
@@ -1702,5 +1688,5 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "deddd40584b48ff776620c4af579153024c09238c6adb2f18021d8c11d637dcd"
+  "contentId": "5109223cdfdac6724fdacf4aa8bf577bd2fa95154b8dc50957439c1f04e30159"
 }
