@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.252",
+  "modpackVersion": "1.0.253",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-01T10:01:40.284Z",
+  "generatedAt": "2026-11-17T10:45:20.922Z",
   "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
   "launcher": {
     "name": "Héritage Launcher",
@@ -1016,27 +1016,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/aslan-outfits-1.1.5.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-outfits-1.1.5__eb495f20.jar",
-      "size": 165399,
-      "sha256": "3623d3265b09d230fbd4b5f73ff79b36e549db4cec22ded80eabeb6fc2d2d024",
-      "type": "mod"
-    },
-    {
-      "path": "mods/aslan-owl-post-0.1.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-owl-post-0.1.0__9d3f81c3.jar",
-      "size": 93431,
-      "sha256": "3b99076f78a88e6d62cea8c339a66a5fbbd6e08dc173dd9d32b24bba800ce2c2",
-      "type": "mod"
-    },
-    {
-      "path": "mods/aslan-quest-board-0.1.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-quest-board-0.1.0__1b5a8959.jar",
-      "size": 63574,
-      "sha256": "a791cd25ef08cb46a2cfa0caa1cbe8c64a9f579cfd4de7843f18963e263109fa",
-      "type": "mod"
-    },
-    {
       "path": "mods/astrocraft-1.5.1+1.21.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_astrocraft-1.5.1_1.21__5c7969ac.jar",
       "size": 6468205,
@@ -1737,6 +1716,5 @@
       "type": "shaderpack"
     }
   ],
-  "revision": "pack-7d409d67f269670c858ccbcf",
-  "contentId": "7d409d67f269670c858ccbcfeb0c347b06140e6167471c73ec3402414ddc084a"
+  "contentId": "82866a070990cd5dc1179216277937dc3617e4e9ede89927579ecb3afb871179"
 }
