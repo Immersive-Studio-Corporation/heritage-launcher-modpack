@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.253",
+  "modpackVersion": "1.0.254",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-17T10:45:20.922Z",
+  "generatedAt": "2026-11-17T10:48:01.960Z",
   "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-7d409d67f269670c858ccbcf/",
   "launcher": {
     "name": "Héritage Launcher",
@@ -995,20 +995,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/aslan-achievements-0.1.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-achievements-0.1.0__59d202a7.jar",
-      "size": 54386,
-      "sha256": "5209c563cade41db0bda39f0e65bb2df1528688512d4d2646cbca665d7267763",
-      "type": "mod"
-    },
-    {
-      "path": "mods/aslan-divination-0.1.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-divination-0.1.0__8313c6e0.jar",
-      "size": 86225,
-      "sha256": "c3ddcb3877715712a37dcb5557f2aac882818f6837cff0c53cf76e880c3554ab",
-      "type": "mod"
-    },
-    {
       "path": "mods/aslan-house-points-0.1.1.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_aslan-house-points-0.1.1__1c120368.jar",
       "size": 4987507,
@@ -1716,5 +1702,5 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "82866a070990cd5dc1179216277937dc3617e4e9ede89927579ecb3afb871179"
+  "contentId": "deddd40584b48ff776620c4af579153024c09238c6adb2f18021d8c11d637dcd"
 }
