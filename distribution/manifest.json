@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.257",
+  "modpackVersion": "1.0.258",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-17T16:39:36Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-85e6354652c919e1e9730680/",
+  "generatedAt": "2026-11-17T17:49:05Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-fa83df23dc1cf31de944bb59/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1240,10 +1240,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-pause-menu-fix-1.2.0.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_heritage-pause-menu-fix-1.2.0__05b1bb6a.jar",
-      "size": 8391,
-      "sha256": "5c293a4bbc093722e65901654e2c3cde02ff5c3aae4b521235a00612ff710d4f",
+      "path": "mods/heritage-pause-menu-fix-1.2.1.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-fa83df23dc1cf31de944bb59/7bf92694040edd00-mods_heritage-pause-menu-fix-1.2.1.jar",
+      "size": 7268,
+      "sha256": "7bf92694040edd00161678a6d07ea7fb84bb705754bab157b38b6d8a43adcd11",
       "type": "mod"
     },
     {
@@ -1275,10 +1275,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/hprp-aslan-0.1.140.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_hprp-aslan-0.1.140__3f55f966.jar",
-      "size": 54318220,
-      "sha256": "506efe658a5e18c530c2f5324c15274cf7eb5afab3e4293ecc4f6d726b063935",
+      "path": "mods/hprp-aslan-0.1.142.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-fa83df23dc1cf31de944bb59/efea8c71a8280129-mods_hprp-aslan-0.1.142.jar",
+      "size": 50081197,
+      "sha256": "efea8c71a82801298debecbe89deef83210c12333e418d9f18f29b6da82efe1b",
       "type": "mod"
     },
     {
@@ -1688,6 +1688,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "85e6354652c919e1e9730680f39d39df1a9e18f5a97ce981ac3b0cf5bb663283",
-  "revision": "pack-85e6354652c919e1e9730680"
+  "contentId": "fa83df23dc1cf31de944bb59e3f6b70e05c170312ad999dcc29e6f1b912c75d1",
+  "revision": "pack-fa83df23dc1cf31de944bb59"
 }
