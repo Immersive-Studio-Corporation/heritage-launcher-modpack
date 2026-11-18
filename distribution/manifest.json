@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.259",
+  "modpackVersion": "1.0.260",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-18T07:52:50Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-6fc9ba99f82e34f02317ea4e/",
+  "generatedAt": "2026-11-18T08:46:12Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-14e74bead80e1e291055b338/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1240,10 +1240,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/heritage-pause-menu-fix-1.3.0.jar",
-      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-6fc9ba99f82e34f02317ea4e/3db822fb7a76e6ef-mods_heritage-pause-menu-fix-1.3.0.jar",
-      "size": 15522,
-      "sha256": "3db822fb7a76e6ef8541735f68d492fe99cfadf5c2e61d3f57c376377b30947d",
+      "path": "mods/heritage-pause-menu-fix-1.3.1.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-14e74bead80e1e291055b338/73fbfac9cf79cdd7-mods_heritage-pause-menu-fix-1.3.1.jar",
+      "size": 18955,
+      "sha256": "73fbfac9cf79cdd759793afeffc9fc710c193ba44b1aa4f76627e21141096348",
       "type": "mod"
     },
     {
@@ -1275,10 +1275,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/hprp-aslan-0.1.142.jar",
-      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-fa83df23dc1cf31de944bb59/efea8c71a8280129-mods_hprp-aslan-0.1.142.jar",
-      "size": 50081197,
-      "sha256": "efea8c71a82801298debecbe89deef83210c12333e418d9f18f29b6da82efe1b",
+      "path": "mods/hprp-aslan-0.1.143.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-14e74bead80e1e291055b338/08cfed6d11b8dc31-mods_hprp-aslan-0.1.143.jar",
+      "size": 50081153,
+      "sha256": "08cfed6d11b8dc310f9941eb407b9a49775eaa737d321cc8257b854e8772c0b1",
       "type": "mod"
     },
     {
@@ -1324,10 +1324,10 @@
       "type": "mod"
     },
     {
-      "path": "mods/lhdp-tab-ui-2.4.1.jar",
-      "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_lhdp-tab-ui-2.4.1__42ecd166.jar",
-      "size": 700944,
-      "sha256": "a8eb7329bed184f33418bb55ca0126bf40d8161b09b92a17bd6363f3e8798b93",
+      "path": "mods/lhdp-tab-ui-2.4.2.jar",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-14e74bead80e1e291055b338/e4c16dd30db1a847-mods_lhdp-tab-ui-2.4.2.jar",
+      "size": 721883,
+      "sha256": "e4c16dd30db1a847e60610b992ead58f4d1dfaf3f66a2a1d63244968b693cb06",
       "type": "mod"
     },
     {
@@ -1688,6 +1688,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "6fc9ba99f82e34f02317ea4e401bfc67f0709c88e392b75006e3eabc7ab860d8",
-  "revision": "pack-6fc9ba99f82e34f02317ea4e"
+  "contentId": "14e74bead80e1e291055b338fe98a5fae26cc787eb5c714f3cbf08507b5db843",
+  "revision": "pack-14e74bead80e1e291055b338"
 }
