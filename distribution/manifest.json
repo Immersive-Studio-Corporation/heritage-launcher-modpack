@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.265",
+  "modpackVersion": "1.0.266",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-24T17:52:16Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-b8814204eb51fa07cf6a2f28/",
+  "generatedAt": "2026-11-24T18:43:47Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-86fc9c8a83252a1dfbeb5bc1/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1289,6 +1289,13 @@
       "type": "mod"
     },
     {
+      "path": "mods/hprp-portraits-muraux-0.2.0.jar",
+      "type": "mod",
+      "size": 363597,
+      "sha256": "ae1b7b38a951ca44d0faaaefb7630765cdb6489b21cb88123176037bbc0d881e",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-86fc9c8a83252a1dfbeb5bc1/ae1b7b38a951ca44-93a318e147d9-hprp-portraits-muraux-0.2.0.jar"
+    },
+    {
       "path": "mods/immersive_furniture-fabric-0.2.2+1.21.1.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_immersive_furniture-fabric-0.2.2_1.21.1__2429b970.jar",
       "size": 930644,
@@ -1695,6 +1702,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "b8814204eb51fa07cf6a2f283cc8980a3ece4561504c206a21c7b86c7b6a1b07",
-  "revision": "pack-b8814204eb51fa07cf6a2f28"
+  "contentId": "9d7416a80f8b02745e7718444760cc0e2efb6bce8e9267b81cad6850c7af061a",
+  "revision": "pack-86fc9c8a83252a1dfbeb5bc1"
 }
