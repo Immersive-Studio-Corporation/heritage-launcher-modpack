@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.266",
+  "modpackVersion": "1.0.267",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-24T18:43:47Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-86fc9c8a83252a1dfbeb5bc1/",
+  "generatedAt": "2026-11-24T18:44:22Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-52598dfea96efd15e5687af6/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1520,13 +1520,6 @@
       "type": "mod"
     },
     {
-      "path": "mods/spatial-gui-1.11.1-hotfix+1.21.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/NxZnp6SG/spatial-gui-1.11.1-hotfix%2B1.21.1-fabric.jar",
-      "size": 744877,
-      "sha256": "da3a1acd96e70276731742268043690838f90b06e482eee3f1d80d7bd169105a",
-      "type": "mod"
-    },
-    {
       "path": "mods/staffpanelrp-1.1.1.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_staffpanelrp-1.1.1__fcbaff9d.jar",
       "size": 1643295,
@@ -1702,6 +1695,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "9d7416a80f8b02745e7718444760cc0e2efb6bce8e9267b81cad6850c7af061a",
-  "revision": "pack-86fc9c8a83252a1dfbeb5bc1"
+  "contentId": "9fe5b12e27039a3fe342898d160c4522ddc2761bdb8d8cb5e3f821012506d708",
+  "revision": "pack-52598dfea96efd15e5687af6"
 }
