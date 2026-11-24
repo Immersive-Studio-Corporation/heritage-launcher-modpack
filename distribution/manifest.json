@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.264",
+  "modpackVersion": "1.0.265",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-18T12:21:52Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-a122930aa257443cd6a3195c/",
+  "generatedAt": "2026-11-24T17:52:16Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-b8814204eb51fa07cf6a2f28/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1156,6 +1156,13 @@
       "type": "mod"
     },
     {
+      "path": "mods/grille-pain-2000-0.1.0.jar",
+      "type": "mod",
+      "size": 227961,
+      "sha256": "0f015e1ee8d98bdcc00783540ee5b6198f10454024180eff2a77268704d5c20a",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-b8814204eb51fa07cf6a2f28/0f015e1ee8d98bdc-d2a3e044fd95-grille-pain-2000-0.1.0.jar"
+    },
+    {
       "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
       "url": "https://github.com/fraiyee14minecraft-dot/heritage-launcher-modpack/releases/download/modpack-latest/mods_handcrafted-fabric-1.21.1-4.0.3__5386d4d1.jar",
       "size": 7127377,
@@ -1688,6 +1695,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "a122930aa257443cd6a3195ca912345ecff9ca5e9be50144d15447e2a18ea780",
-  "revision": "pack-a122930aa257443cd6a3195c"
+  "contentId": "b8814204eb51fa07cf6a2f283cc8980a3ece4561504c206a21c7b86c7b6a1b07",
+  "revision": "pack-b8814204eb51fa07cf6a2f28"
 }
