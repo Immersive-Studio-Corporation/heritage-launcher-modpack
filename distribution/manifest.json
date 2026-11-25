@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "modpackVersion": "1.0.267",
+  "modpackVersion": "1.0.268",
   "minecraftVersion": "1.21.1",
   "fabricLoaderVersion": "0.19.3",
-  "generatedAt": "2026-11-24T18:44:22Z",
-  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-52598dfea96efd15e5687af6/",
+  "generatedAt": "2026-11-25T20:35:30Z",
+  "baseUrl": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-a4b5f36ec516739018de11a0/",
   "launcher": {
     "name": "Héritage Launcher",
     "serverName": "L'Héritage de Poudlard",
@@ -1158,9 +1158,9 @@
     {
       "path": "mods/grille-pain-2000-0.1.0.jar",
       "type": "mod",
-      "size": 227961,
-      "sha256": "0f015e1ee8d98bdcc00783540ee5b6198f10454024180eff2a77268704d5c20a",
-      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-b8814204eb51fa07cf6a2f28/0f015e1ee8d98bdc-d2a3e044fd95-grille-pain-2000-0.1.0.jar"
+      "size": 274489,
+      "sha256": "3574bbf28fffbf341ab0b0e5ec801b88884d7f190f7be6432e8cc767d9e2ab9b",
+      "url": "https://github.com/Immersive-Studio-Corporation/heritage-launcher-modpack/releases/download/pack-a4b5f36ec516739018de11a0/3574bbf28fffbf34-mods_grille-pain-2000-0.1.0.jar"
     },
     {
       "path": "mods/handcrafted-fabric-1.21.1-4.0.3.jar",
@@ -1695,6 +1695,6 @@
       "type": "shaderpack"
     }
   ],
-  "contentId": "9fe5b12e27039a3fe342898d160c4522ddc2761bdb8d8cb5e3f821012506d708",
-  "revision": "pack-52598dfea96efd15e5687af6"
+  "contentId": "a4b5f36ec516739018de11a06db66e54b028140e4d57dd83502c4f554b03317a",
+  "revision": "pack-a4b5f36ec516739018de11a0"
 }
